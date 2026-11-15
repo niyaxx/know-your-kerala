@@ -1,22 +1,5 @@
 import { useEffect, useId, useMemo, useRef } from "react";
 
-/* ------------------------------------------------------------------ *
- *  ILLUSTRATIONS
- *
- *  Everything illustrated on the site lives in this file, drawn as
- *  hand-built SVG so it stays crisp and animatable.
- *
- *  TO USE YOUR OWN ARTWORK
- *  Put your PNG / SVG / WebP files in  frontend/public/illustrations/
- *  and point the matching layer below at it, e.g.
- *
- *      sky: "/illustrations/sky.png",
- *
- *  Each hero layer is a full-bleed image that is bottom-aligned and
- *  cropped like CSS `object-fit: cover`, so export every layer at the
- *  SAME size (16:9, e.g. 2400 x 1350, transparent background except
- *  for the sky). Leave a value as null to use the built-in drawing.
- * ------------------------------------------------------------------ */
 export const ILLUSTRATION_OVERRIDES = {
   sky: null, // opaque sky + sun glow
   clouds: null, // transparent PNG, clouds and birds
