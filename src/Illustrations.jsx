@@ -550,6 +550,20 @@ export function HeroScene() {
             </g>
           ))}
         </g>
+        <text
+  x="1570"
+  y="875"
+  textAnchor="end"
+  fontSize="24"
+  fontFamily="Arial, sans-serif"
+  fontWeight="600"
+  fill="#f6eedb"
+  stroke="#16231d"
+  strokeWidth="3"
+  paintOrder="stroke"
+>
+  AI-generated with Claude
+</text>
       </Layer>
     </>
   );
@@ -805,6 +819,20 @@ export function UmbrellaScene() {
       <path d="M142 456H164M184 456H206" stroke="#16231d" strokeWidth="4" strokeLinecap="round" />
       <ellipse cx="180" cy="462" rx="120" ry="9" fill="none" stroke="#f6eedb" strokeWidth="2" opacity="0.55" className="puddle" />
       <ellipse cx="180" cy="462" rx="70" ry="5" fill="none" stroke="#f6eedb" strokeWidth="2" opacity="0.55" className="puddle puddle-2" />
+      <text
+  x="350"
+  y="465"
+  textAnchor="end"
+  fontSize="10"
+  fontFamily="Arial, sans-serif"
+  fontWeight="600"
+  fill="#f6eedb"
+  stroke="#16231d"
+  strokeWidth="1.5"
+  paintOrder="stroke"
+>
+  AI-generated with Claude
+</text>
     </svg>
   );
 }
@@ -849,6 +877,20 @@ export function FooterScene() {
           <ellipse key={i} className="ripple" cx={p.x.toFixed(0)} cy={p.y.toFixed(0)} rx="26" ry="6" style={{ animationDelay: `${p.d.toFixed(2)}s` }} />
         ))}
       </g>
+      <text
+  x="1550"
+  y="400"
+  textAnchor="end"
+  fontSize="20"
+  fontFamily="Arial, sans-serif"
+  fontWeight="600"
+  fill="#f6eedb"
+  stroke="#16231d"
+  strokeWidth="3"
+  paintOrder="stroke"
+>
+  AI-generated with Claude
+</text>
     </svg>
   );
 }
