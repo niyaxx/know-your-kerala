@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>**Know Your Kerala** is an interactive rainfall data explorer for Kerala, India, built using NASA Earth observation data.</strong>
+  <strong>Know Your Kerala is an interactive rainfall data explorer for Kerala, India, built using NASA Earth observation data.</strong>
 </p>
 
 <p align="center">
