@@ -1,4 +1,6 @@
-**Know Your Kerala** is an interactive rainfall data explorer for Kerala, India, built using NASA Earth observation data.
+<p align="center">
+  <strong>**Know Your Kerala** is an interactive rainfall data explorer for Kerala, India, built using NASA Earth observation data.</strong>
+</p>
 
 <p align="center">
   <a href="https://frontend-mu-beige-ixdb9zho6t.vercel.app/">Live Demo</a> •
@@ -9,7 +11,7 @@
 
 ## Overview
 
-**Know Your Kerala: The Rhythm of Kerala’s Rain** is an interactive rainfall data explorer developed for the 2026 NASA Space Apps Challenge, under the challenge *Be An Earth System Trend Detective!*
+**Know Your Kerala** is an interactive rainfall data explorer developed for the 2026 NASA Space Apps Challenge, under the challenge *Be An Earth System Trend Detective!*
 
 The project investigates precipitation patterns across Kerala, India, using satellite-based rainfall observations from NASA’s Global Precipitation Measurement (GPM) mission.
 
